@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\p_final_multi\\TREBALL GRUP 2\\Client SM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A40E6C1-1925-1EDA-F20B-5A18F553E5D2}|Assembly-CSharp.csproj|c:\\users\\sergi\\onedrive\\documentos\\github\\p_final_multi\\treball grup 2\\client sm\\assets\\player_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A40E6C1-1925-1EDA-F20B-5A18F553E5D2}|Assembly-CSharp.csproj|solutionrelative:assets\\player_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player_movement.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\p_final_multi\\TREBALL GRUP 2\\Client SM\\Assets\\Player_movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Player_movement.cs",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\p_final_multi\\TREBALL GRUP 2\\Client SM\\Assets\\Player_movement.cs",
+              "RelativeToolTip": "Assets\\Player_movement.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:41:35.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
